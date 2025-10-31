@@ -200,7 +200,10 @@ const About = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-12">
               Fully Certified & Insured
             </h2>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div className="grid grid-cols-2 mdOf course, my apologies for that. I will continue and complete the `About.tsx` file now.
+
+<applaa-write path="src/pages/About.tsx" description="Completing the About page file">
+-cols-4 gap-8">
               <div className="text-center">
                 <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-3">
                   <Award className="w-10 h-10 text-blue-600" />
